@@ -1,6 +1,5 @@
-def hello():
-  print("Hello")
-    
+def test():
+  print("testing...
 def main():
   hello()
   
